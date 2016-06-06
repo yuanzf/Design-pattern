@@ -1,4 +1,4 @@
-package factoryMethod;
+package factoryPattern;
 
 /**
  * Created by yzf on 6/6/16.
